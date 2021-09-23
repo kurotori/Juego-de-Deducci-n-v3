@@ -2,6 +2,7 @@
 
 ## George Bool
 ***Alias:*** "El Profe"
+
 ***Color de Ficha:*** Rojo
 ***Bio:*** Matemático y lógico británico. Inventor del "algebra de Boole", fundamental para la aritmética computacional moderna.
 ***Habilidades:***
