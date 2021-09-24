@@ -23,7 +23,7 @@
 2. **Ver para creer:** *Costo: 5* Antes de terminar tu turno, mira la primera carta en el pozo de pistas "!" y ponla al final del mazo.
 
 
-## Gottfried Wilhelm Leibniz
+## Gottfried W. Leibniz
 
 ***Alias:*** "El Peluca"  
 ***Color de Ficha:*** Rosa  
