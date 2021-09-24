@@ -60,6 +60,6 @@
 ***Color de Ficha:*** Naranja  
 ***Bio:***  Matemático, lógico y filósofo alemán. Se lo considera el "padre" de la lógica matemática y de la filosofía analítica. Desarrolló los conceptos de "lenguaje formal" y de la noción de "demostración matemática".  
 ***Habilidades:***  
-1. **Esto es igual a aquello:** *Costo: 2* Si al mover tu ficha llegas a un pasadizo, puedes usarlo para ir a cualquier otro pasadizo.
+1. **Esto es igual a aquello:** *Costo: 2* Puedes salir de un pasadizo para entrar a cualquier otro pasadizo.
 
 2. **Queda demostrado:** *Costo: 5* Sin importar dónde te encuentres, haz un tiro de dos D6, si obtienes 10 o más, toma una carta del pozo de pistas "!".  
