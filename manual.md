@@ -1,4 +1,4 @@
-### Cómo Jugar
+# Cómo Jugar
 
 ## Preparación de la partida
 
