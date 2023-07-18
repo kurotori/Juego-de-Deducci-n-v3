@@ -25,15 +25,15 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.55207202"
-     inkscape:cx="479.10416"
-     inkscape:cy="546.1244"
+     inkscape:zoom="0.39037387"
+     inkscape:cx="202.3701"
+     inkscape:cy="528.98008"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6">
+     inkscape:current-layer="layer2">
     <sodipodi:guide
        position="15,265.85435"
        orientation="-1,0"
@@ -83,6 +83,16 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Fondo">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect5731"
+       width="210"
+       height="297"
+       x="210"
+       y="0"
+       inkscape:export-filename="rect57312.pdf"
+       inkscape:export-xdpi="22"
+       inkscape:export-ydpi="22" />
     <rect
        style="opacity:0.821317;fill:#37c837;stroke:#210000;stroke-width:3.54397;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
        id="rect234"
@@ -493,7 +503,7 @@
         <path
            id="rect8738"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 248.88792,31.147245 h 49.67621 c 3.0938,0 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49068,5.584481 -5.58448,5.584481 h -41.38999 l -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.584481 5.58448,-5.584481 z"
+           d="m 248.88792,31.147245 70.3137,0.02075 c 3.0938,9.14e-4 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49068,5.585517 -5.58448,5.584481 l -62.02748,-0.02075 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.585394 5.58448,-5.584481 z"
            sodipodi:nodetypes="sssscccss" />
         <text
            xml:space="preserve"
@@ -505,16 +515,16 @@
              id="tspan8951"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="250.27112"
-             y="39.07288">DORMITORIO</tspan></text>
+             y="39.07288">DORMITORIO:</tspan></text>
       </g>
       <g
          id="g9017"
-         transform="rotate(77.841727,245.3411,159.75592)"
+         transform="rotate(77.841727,251.2898,151.70462)"
          style="fill:none">
         <path
            id="path9011"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 248.88792,31.147245 52.82005,-0.0093 c 3.0938,-5.43e-4 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49069,5.583837 -5.58448,5.584481 l -44.53383,0.0093 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.583938 5.58448,-5.584481 z"
+           d="m 248.88792,31.147245 66.93847,-0.215401 c 3.09379,-0.01 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49071,5.57312 -5.58448,5.584481 l -58.65225,0.215401 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49069,-5.574526 5.58448,-5.584481 z"
            sodipodi:nodetypes="sssscccss" />
         <text
            xml:space="preserve"
@@ -527,7 +537,7 @@
              id="tspan9013"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="249.03224"
-             y="39.797665">SALA DE ESTAR</tspan></text>
+             y="39.797665">SALA DE ESTAR:</tspan></text>
       </g>
       <g
          id="g10614"
@@ -594,12 +604,12 @@
       </g>
       <g
          id="g10638"
-         transform="rotate(-0.05762056,452.0045,53600.919)"
+         transform="rotate(-0.05762056,448.0358,61493.679)"
          style="fill:none">
         <path
            id="path10632"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 248.88792,31.147245 30.09705,-0.01969 c 3.0938,-0.002 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49068,5.581688 -5.58448,5.584481 l -21.81083,0.01969 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.582457 5.58448,-5.584481 z"
+           d="m 248.88792,31.147245 45.97204,-0.0037 c 3.0938,-2.51e-4 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49068,5.584175 -5.58448,5.584481 l -37.68582,0.0037 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.58423 5.58448,-5.584481 z"
            sodipodi:nodetypes="sssscccss" />
         <text
            xml:space="preserve"
@@ -611,7 +621,7 @@
              id="tspan10634"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="250.27112"
-             y="39.07288">PASILLO</tspan></text>
+             y="39.07288">PASILLO:</tspan></text>
       </g>
       <g
          id="g10646"
@@ -620,7 +630,7 @@
         <path
            id="path10640"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 248.88792,31.147245 20.57205,-0.02927 c 3.0938,-0.0044 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49068,5.577111 -5.58448,5.584481 l -12.28583,0.02927 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.580079 5.58448,-5.584481 z"
+           d="m 248.88792,31.147245 38.03454,-0.01171 c 3.0938,-9.52e-4 5.58448,2.490679 5.58448,5.584481 0,3.093803 -2.49067,5.583264 -5.58448,5.584481 l -29.74832,0.01171 -4.22691,3.704167 -4.05931,-3.704167 c -3.09381,0 -5.58448,-2.490678 -5.58448,-5.584481 0,-3.093802 2.49067,-5.583529 5.58448,-5.584481 z"
            sodipodi:nodetypes="sssscccss" />
         <text
            xml:space="preserve"
@@ -632,16 +642,16 @@
              id="tspan10642"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="248.68364"
-             y="39.071278">BAÑO</tspan></text>
+             y="39.071278">BAÑO:</tspan></text>
       </g>
       <g
          id="g10662"
-         transform="rotate(-0.05762056,223763.53,-75678.943)"
+         transform="rotate(-0.05762056,223751.31,-50948.295)"
          style="fill:none">
         <path
            id="path10656"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 249.51111,42.19259 32.74279,0.08289 c 3.09378,0.0078 5.58947,-2.479441 5.5957,-5.573237 0.006,-3.093797 -2.47946,-5.587325 -5.57324,-5.595702 l -24.45659,-0.06622 -4.21945,-3.712661 -4.06675,3.695994 c -3.0938,-0.0062 -5.58948,2.479441 -5.5957,5.573238 -0.006,3.093796 2.47943,5.589479 5.57324,5.595702 z"
+           d="m 249.51111,42.19259 54.43861,0.104709 c 3.09379,0.0059 5.58947,-2.479441 5.5957,-5.573237 0.006,-3.093797 -2.47945,-5.589801 -5.57324,-5.595702 l -46.15241,-0.08804 -4.21945,-3.712661 -4.06675,3.695994 c -3.0938,-0.0062 -5.58948,2.479441 -5.5957,5.573238 -0.006,3.093796 2.47943,5.589479 5.57324,5.595702 z"
            sodipodi:nodetypes="sssscccsss" />
         <text
            xml:space="preserve"
@@ -653,7 +663,7 @@
              id="tspan10658"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="250.27112"
-             y="39.07288">ESTUDIO</tspan></text>
+             y="39.07288">ESTUDIO:</tspan></text>
       </g>
       <g
          id="g10670"
@@ -662,8 +672,8 @@
         <path
            id="path10664"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 301.06843,30.945984 -37.02876,0.418401 c -3.09362,0.03499 -5.55415,2.55764 -5.51696,5.65122 0.0372,3.093581 2.55762,5.553505 5.65123,5.516938 l 28.74314,-0.318784 4.27116,3.65308 4.01446,-3.752696 c 0.15971,-0.0019 0.31772,-0.01042 0.47376,-0.02535 2.86722,-0.273585 5.07846,-2.691979 5.0432,-5.625869 -0.0372,-3.09358 -2.55763,-5.55188 -5.65123,-5.516938 z"
-           sodipodi:nodetypes="sssscccsss" />
+           d="m 301.06843,30.945984 -49.07799,1.070299 c -3.09309,0.06745 -5.55415,2.55764 -5.51696,5.65122 0.0372,3.093581 2.55827,5.590537 5.65123,5.516938 l 40.79237,-0.970682 4.27116,3.65308 4.01446,-3.752696 c 0.15971,-0.0019 0.31772,-0.01042 0.47376,-0.02535 2.86722,-0.273585 5.07846,-2.691979 5.0432,-5.625869 -0.0372,-3.09358 -2.55763,-5.55188 -5.65123,-5.516938 z"
+           sodipodi:nodetypes="sssscccssss" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.180128"
@@ -675,7 +685,7 @@
              id="tspan10666"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="-301.62659"
-             y="38.759968">COMEDOR</tspan></text>
+             y="38.759968">COMEDOR:</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -696,7 +706,7 @@
         <path
            id="path11201"
            style="fill:#ffe6ff;stroke:#210000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-           d="m 301.06843,30.945984 -26.76117,0.546937 c -3.09317,0.06322 -5.55415,2.55764 -5.51696,5.65122 0.0372,3.093581 2.55831,5.591823 5.65123,5.516938 l 18.47555,-0.44732 4.27116,3.65308 4.01446,-3.752696 c 0.15971,-0.0019 0.31772,-0.01042 0.47376,-0.02535 2.86722,-0.273585 5.07846,-2.691979 5.0432,-5.625869 -0.0372,-3.09358 -2.55763,-5.55188 -5.65123,-5.516938 z"
+           d="m 301.06843,30.945984 -38.18166,0.792987 c -3.09315,0.06424 -5.55415,2.55764 -5.51696,5.65122 0.0372,3.093581 2.55831,5.591822 5.65123,5.516938 l 30.41334,-0.581921 3.75386,3.541631 4.01446,-3.752696 c 0.15971,-0.0019 0.31772,-0.01042 0.47376,-0.02535 2.86722,-0.273585 5.07846,-2.691979 5.0432,-5.625869 -0.0372,-3.09358 -2.55763,-5.55188 -5.65123,-5.516938 z"
            sodipodi:nodetypes="sssscccssss" />
         <text
            xml:space="preserve"
@@ -709,7 +719,7 @@
              id="tspan11203"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.180128"
              x="-301.62659"
-             y="38.759968">COCINA</tspan></text>
+             y="38.759968">COCINA:</tspan></text>
       </g>
     </g>
   </g>
